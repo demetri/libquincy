@@ -25,3 +25,11 @@ Here are a few aspects of human perception that are reflected in Quincy's design
 * distinguishing habituated sound from sound onset/"attack"
 * "smoothpeak" formant detection and tracking (loosely, these are what your brain perceives as identifiable tones in a sound)
 * harmonization/resonance detection (Quincy knows a tiny amount about music theory, which is more than can be said for most cats)
+
+## Origin Story
+
+LibQuincy's fiter bank design is loosely analogous to something called the "Constant Q" transform [1]. I used to have a cat, Quincy, whom we usually called Q, and he was very loyal.
+
+Quincy is a byproduct of my larger project, No Royal Road (NR2). an attempt to create a university level mathematics education built from the ground up on interactive media ideas. For lack of a better term, it will be a "math game". NR2 is still in early development, but you can [follow along](demetri.substack.com/s/no-royal-road). 
+
+[1] for human-perception reasons it is not actually a Constant Q filter bank, but that is the closest among the commonly-known filter bank designs
