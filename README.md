@@ -1,7 +1,7 @@
 # LibQuincy &mdash; See What You Hear
 <img src="readme_assets/quincy_hms22.png" width=800>
 
-####Perceptually-Focused Real-Time Audio Spectrum Visualizer Library in C99/C++
+#### Perceptually-Focused Real-Time Audio Spectrum Visualizer Library in C99/C++
 
 * small (1500LOC), single-file, zero-dependency (not even C stdlib),  easy to integrate with any C/C++ project, with other languages, or with GPU-based visualizations
 * algorithm design emphasizes human perception (see below) over other concerns
