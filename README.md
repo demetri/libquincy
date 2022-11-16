@@ -5,7 +5,7 @@
 
 * small (1500LOC), single-file, zero-dependency (not even C stdlib),  easy to integrate with any C/C++ project, with other languages, or with GPU-based visualizations
 * algorithm design emphasizes human perception (see below) over other concerns
-* visualization design emphasizes high quality real-time animation (easy 60fps in HD quality with analytical temporal AA)
+* visualization design emphasizes high quality real-time animation (easy 60fps in HD quality with analytical temporal AA, using 50% of one core and CPU rendering)
 
 ## Publicly Available December 1st 2022
 Quincy v0.9 will be published December 1st, after I finish some polish and documentation to make it suitable for public use.
