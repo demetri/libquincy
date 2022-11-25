@@ -28,7 +28,7 @@ Here are a few aspects of human perception that are reflected in Quincy's design
 
 ## Origin Story
 
-LibQuincy's fiter bank design is loosely analogous to something called the "Constant Q" transform [1]. I used to have a cat, Quincy, whom we usually called Q, and he was very loyal.
+LibQuincy's filter bank design is loosely analogous to something called the "Constant Q" transform [1]. I used to have a cat, Quincy, whom we usually called Q, and he was very loyal.
 
 Quincy is a byproduct of my larger project, No Royal Road (NR2). an attempt to create a university level mathematics education built from the ground up on interactive media ideas. For lack of a better term, it will be a "math game". NR2 is still in early development, but you can [follow along](demetri.substack.com/s/no-royal-road). 
 
