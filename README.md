@@ -7,8 +7,8 @@
 * algorithm design emphasizes human perception (see below) over other concerns
 * visualization design emphasizes high quality real-time animation (easy 60fps in 1080HD quality and 44.1 kHz audio, with analytical temporal AA, using 50% of one core and CPU rendering)
 
-## Publicly Available December 1st 2022
-Quincy v0.9 will be published December 1st, after I finish some polish and documentation to make it suitable for public use.
+## Publicly Available December 1st 2022 [Update: 4th]
+Quincy v0.9 will be published December 1st [4th], after I finish some polish and documentation to make it suitable for public use.
 
 Quincy was first presented at [Handmade Seattle 2022](https://handmade-seattle.com/). Conference video will be linked as it becomes available.
 
